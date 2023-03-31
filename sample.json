@@ -1,0 +1,178 @@
+{
+  'Id': {
+    'value': 'B07GZLVCCC'
+  },
+  'IdType': {
+    'value': 'ASIN'
+  },
+  'status': {
+    'value': 'Success'
+  },
+  'Products': {
+    'Product': {
+      'Identifiers': {
+        'MarketplaceASIN': {
+          'MarketplaceId': {
+            'value': 'ATVPDKIKX0DER'
+          },
+          'ASIN': {
+            'value': 'B07GZLVCCC'
+          }
+        }
+      },
+      'AttributeSets': {
+        'ItemAttributes': {
+          'lang': {
+            'value': 'en-US'
+          },
+          'Brand': {
+            'value': 'Sojanya'
+          },
+          'Color': {
+            'value': 'Red and Off White'
+          },
+          'Department': {
+            'value': 'mens'
+          },
+          'PackageDimensions': {
+            'Weight': {
+              'value': '0.9700339528000',
+              'Units': {
+                'value': 'pounds'
+              }
+            }
+          },
+          'ProductGroup': {
+            'value': 'Apparel'
+          },
+          'ProductTypeName': {
+            'value': 'APPAREL'
+          },
+          'Size': {
+            'value': 'Medium'
+          },
+          'SmallImage': {
+            'URL': {
+              'value': 'http://ecx.images-amazon.com/images/I/41nERy-ij6L._SL75_.jpg'
+            },
+            'Height': {
+              'value': '75',
+              'Units': {
+                'value': 'pixels'
+              }
+            },
+            'Width': {
+              'value': '75',
+              'Units': {
+                'value': 'pixels'
+              }
+            }
+          },
+          'Title': {
+            'value': "Sojanya (Since 1958), Men's Cotton Blend Kurta and Churidar Pyjama Set"
+          }
+        }
+      },
+      'Relationships': {
+        'VariationParent': {
+          'Identifiers': {
+            'MarketplaceASIN': {
+              'MarketplaceId': {
+                'value': 'ATVPDKIKX0DER'
+              },
+              'ASIN': {
+                'value': 'B07GZNRKS7'
+              }
+            }
+          }
+        }
+      },
+      'SalesRankings': {
+        
+      }
+    }
+  },
+  'discription': {
+    'sku_id': 'New-Churidar-SJR-121-38',
+    'image_1': '',
+    'product_description': 'SOJANYA as a brand brings you quality and affordability. In market since 1958, we take pride in our commitment to maintain quality standards in each piece manufactured by us. Look your ethnic best wearing this designer Red and Off White Cotton Blend kurta and Pyjama Set . Made of Cotton Blend fabric, this regular-fit kurta Pyjama Set comprises a full-sleeved Cotton Blend kurta and churidaar Pyjama Set. Team this outifit with embroidered mojris and look apart on special occasions.',
+    'inventory_quantity': '109',
+    'lp': '30.4'
+  },
+  'categoryDescription': {
+    'Self': [
+      {
+        'ProductCategoryId': {
+          'value': '7581669011'
+        },
+        'ProductCategoryName': {
+          'value': 'Shops'
+        },
+        'Parent': {
+          'ProductCategoryId': {
+            'value': '7147441011'
+          },
+          'ProductCategoryName': {
+            'value': 'Men'
+          },
+          'Parent': {
+            'ProductCategoryId': {
+              'value': '7141124011'
+            },
+            'ProductCategoryName': {
+              'value': 'Departments'
+            },
+            'Parent': {
+              'ProductCategoryId': {
+                'value': '7141123011'
+              },
+              'ProductCategoryName': {
+                'value': 'Clothing, Shoes & Jewelry'
+              }
+            }
+          }
+        }
+      },
+      {
+        'ProductCategoryId': {
+          'value': '13683568011'
+        },
+        'ProductCategoryName': {
+          'value': 'South Asian'
+        },
+        'Parent': {
+          'ProductCategoryId': {
+            'value': '13683551011'
+          },
+          'ProductCategoryName': {
+            'value': 'Asian'
+          },
+          'Parent': {
+            'ProductCategoryId': {
+              'value': '7586166011'
+            },
+            'ProductCategoryName': {
+              'value': 'Traditional & Cultural Wear'
+            },
+            'Parent': {
+              'ProductCategoryId': {
+                'value': '7141124011'
+              },
+              'ProductCategoryName': {
+                'value': 'Departments'
+              },
+              'Parent': {
+                'ProductCategoryId': {
+                  'value': '7141123011'
+                },
+                'ProductCategoryName': {
+                  'value': 'Clothing, Shoes & Jewelry'
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
